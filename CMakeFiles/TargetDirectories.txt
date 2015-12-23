@@ -1,0 +1,4 @@
+/root/torch/extra/cutorch/build/lib/THC/CMakeFiles/THC.dir
+/root/torch/extra/cutorch/build/CMakeFiles/cudatensormathwrap.dir
+/root/torch/extra/cutorch/build/CMakeFiles/cutorch.dir
+/root/torch/extra/cutorch/build/CMakeFiles/cutorch_static.dir
